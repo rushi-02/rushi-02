@@ -9,5 +9,5 @@ M.Tech AI @ IIT Madras | Codeforces Expert (1636) | CodeChef 5-Star (2045)
 - RAG pipelines, LLM fine-tuning (LoRA), constrained generation
 
 ### Writing
-- [Custom Metric Evaluation in LLaMA-Factory](https://www.analyticsvidhya.com/blog/2024/11/llama-factory/) — Analytics Vidhya
-- [Inside Gemini's Memory](https://medium.com/@rushikeshchavan_99600/inside-geminis-memory-context-user-profiles-and-personalization-87bc1ae4ba18) — Medium
+- [Custom Metric Evaluation in LLaMA-Factory](https://www.analyticsvidhya.com/blog/2024/11/llama-factory/) - Analytics Vidhya
+- [Inside Gemini's Memory](https://medium.com/@rushikeshchavan_99600/inside-geminis-memory-context-user-profiles-and-personalization-87bc1ae4ba18) - Medium
