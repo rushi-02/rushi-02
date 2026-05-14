@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Rushikesh 👋
 
-<!--
-**rushi-02/rushi-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | 3 years building production LLM systems at BNY Mellon
+M.Tech AI @ IIT Madras | Codeforces Expert (1636) | CodeChef 5-Star (2045)
 
-Here are some ideas to get you started:
+### What I Build
+- Multi-agent orchestration (MCP, CrewAI, A2A) for enterprise data
+- NL-to-Elasticsearch engine serving 800-1000 daily users
+- RAG pipelines, LLM fine-tuning (LoRA), constrained generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Writing
+- [Custom Metric Evaluation in LLaMA-Factory](https://www.analyticsvidhya.com/blog/2024/11/llama-factory/) — Analytics Vidhya
+- [Inside Gemini's Memory](https://medium.com/@rushikeshchavan_99600/inside-geminis-memory-context-user-profiles-and-personalization-87bc1ae4ba18) — Medium
